@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<WHITELIST>
+    <PerfService>
+        <Package name="com.imangi.templerun2">
+            <Activity name="Common">
+                <CMD_SET_TA_BOOST_VALUE Param1="5"/>
+            </Activity>
+        </Package>
+        <Package name="my.beautyCamera">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.mobileqq">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="air.tv.douyu.android">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.meitu.makeup">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="com.netease.ko">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="com.netease.hyxd">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="com.maimiao.live.tv">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="8"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.ak">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.ak.mi">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.netease.hyxd">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.cf">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.cldts">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.netease.zjz">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.clfz">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.pubgm">
+            <Activity name="Common">
+                <CMD_SET_CM_MGR Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.vectorunit.red">
+            <Activity name="Common">
+                <CMD_SET_FSTB_FPS Param1="60" Param2="60"/>
+            </Activity>
+        </Package>
+        <!--Added Liang.Yang@ODM_HQ.Performance whiter list modify to improve biuetooth open time, 2019/10/12 begin-->
+        <Package name="com.coloros.wirelesssettings">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <!--Added Liang.Yang@ODM_HQ.Performance whiter list modify to improve biuetooth open time, 2019/10/12 end-->
+        <!--Added Zhen.Su@ODM_HQ.Performance whiter list modify to improve contact open time, 2019/10/14 begin-->
+        <Package name="com.android.contacts">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="1"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+            </Activity>
+        </Package>
+        <!--Added Zhen.Su@ODM_HQ.Performance whiter list modify to improve contact open time, 2019/10/14 end-->
+        <!--Added Qiong.Wu@ODM_HQ.Performance whiter list modify to improve OppoCamera launch  performance, 2019/10/15 begin-->
+        <Package name="com.oppo.camera">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="4"/>
+            </Activity>
+        </Package>
+        <!--Added Qiong.Wu@ODM_HQ.Performance whiter list modify to improve OppoCamera launch  performance, 2019/10/15 end-->
+        <!--Added Zhen.Su@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/10/22 begin-->
+        <Package name="com.kmxs.reader">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="3"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.jingdong.app.mall">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="4"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.sdu.didi.gsui">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="2"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="cn.wps.moffice_eng">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="2"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <!--Added Zhen.Su@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/10/22 end-->
+        <!--Added Shulin.Zhang@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/10/25 begin-->
+        <Package name="com.qq.reader">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="3"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.qihoo.browser">
+            <Activity name="Common">
+                <CMD_SET_PACK_BOOST_TIMEOUT Param1="3"/>
+                <CMD_SET_SCHED_BOOST Param1="1"/>
+            </Activity>
+        </Package>
+        <!--Added Shulin.Zhang@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/10/25 end-->
+        <!--Added yangliang_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/2 begin-->
+        <Package name="com.netease.mrzh">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_VCORE_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+                <CMD_SET_SPCOND_RESV_VI Param1="1"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+            </Activity>
+        </Package>
+        <!--modify by Zhen.Su@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/4 begin-->
+        <Package name="performance.oppo.com.helloworld">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_VCORE_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+                <CMD_SET_SPCOND_RESV_VI Param1="1"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+            </Activity>
+        </Package>
+        <!--modify by Zhen.Su@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/4 end-->
+        <!--Added yangliang_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/2 end-->
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/25 begin-->
+        <Package name="com.tencent.tmgp.speedmobile">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+            </Activity>
+        </Package>
+        <Package name="com.netease.hyxd.nearme.gamecenter">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.sgame">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.cf">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+            </Activity>
+        </Package>
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/25 end-->
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/25 begin-->
+        <Package name="com.tencent.tmgp.pubgmhd">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+            </Activity>
+        </Package>
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/25 end-->
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/27 begin-->
+        <Package name="com.garena.game.kgth">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.ig">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+            </Activity>
+        </Package>
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/11/27 end-->
+        <!--Added by zhangfangchen@ODM_HQ.Power modify to add thermal policy for backrestore,limit cpu frequency, 2019/12/17 begin-->
+        <Package name="com.coloros.backuprestore">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="9"/>
+            </Activity>
+        </Package>
+        <!--Added by zhangfangchen@ODM_HQ.Power modify to add thermal policy for backrestore,limit cpu frequency, 2019/12/17 end-->
+        <!--Added by WT000630@ODM_WT.Power modify to add thermal policy for thermal_whitelist ,limit cpu frequency, 2020/1/21 begin-->
+        <Package name="com.zhiliaoapp.musically">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.ngame.allstar.eu">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.ig">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.ss.android.ugc.trill">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.garena.game.kgtw">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.pubgmhd">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.sgame">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <Package name="com.ss.android.ugc.aweme">
+            <Activity name="Common">
+                <CMD_SET_THERMAL_POLICY Param1="10"/>
+            </Activity>
+        </Package>
+        <!--Added by WT000630@ODM_WT.Power modify to add thermal policy for thermal_whitelist,limit cpu frequency, 2020/1/21 end-->
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/12/26 begin-->
+        <Package name="com.foranj.farmparadise">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+            </Activity>
+        </Package>
+        <Package name="com.kgs.housedesigner">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="3000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="3000000"/>
+                <CMD_SET_GPU_FREQ_MIN Param1="0"/>
+                <CMD_SET_OPP_DDR Param1="0"/>
+            </Activity>
+        </Package>
+        <!--Added zhangshulin_hq@ODM_HQ.Performance whiter list modify to improve coldstart time, 2019/12/26 end-->
+        <!--Added wuqiong_hq@ODM_HQ.CamHAL white list modify to improve com.linecorp.foodcamcn.android, 2020/1/14 begin-->
+        <Package name="com.linecorp.foodcamcn.android">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="2000000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="2000000"/>
+            </Activity>
+        </Package>
+        <!--Added wuqiong_hq@ODM_HQ.CamHAL white list modify to improve com.linecorp.foodcamcn.android, 2020/1/14 end-->
+        <!--Added HuangZongyi@ANDROID.ORMS white list modify to improve com.linecorp.foodcamcn.android, 2021/11/05 begin-->
+        <Package name="com.google.android.exoplayer.gts">
+            <Activity name="Common">
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="2301000"/>
+                <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1800000"/>
+            </Activity>
+        </Package>
+        <!--Added HuangZongyi@ANDROID.ORMS white list modify to improve com.linecorp.foodcamcn.android, 2021/11/05 end-->
+    </PerfService>
+</WHITELIST>

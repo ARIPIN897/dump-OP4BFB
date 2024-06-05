@@ -1,0 +1,121 @@
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            08:48:8a:a2:9a:33:17:d0:9d:42:71:35:c8:69:ba:b3
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA
+        Validity
+            Not Before: May 14 00:00:00 2019 GMT
+            Not After : May 13 12:00:00 2020 GMT
+        Subject: C=MX, ST=CIUDAD DE MEXICO, L=Ciudad De Mexico, O=AT&T Comunicaciones Digitales S de RL de CV, OU=AT&T, CN=supl.attmex.mx
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:59:8d:33:16:3b:4e:94:35:89:aa:83:d4:75:
+                    62:d2:fc:73:c8:f5:03:70:94:28:27:87:5d:c2:3d:
+                    f4:18:cd:b3:17:0b:15:d8:5b:30:59:4a:7e:a7:6c:
+                    11:7e:25:e7:b8:81:62:0b:23:d4:b3:75:be:fb:bc:
+                    18:e5:1e:cd:28:af:d9:49:78:2f:a1:64:b8:14:66:
+                    b3:29:5b:bf:fc:d7:5b:e6:1f:45:f3:49:75:5e:48:
+                    f0:5f:35:a2:42:84:70:19:44:bd:35:82:72:0a:92:
+                    f1:39:42:e9:ac:63:c5:4f:15:0a:14:79:3e:4b:71:
+                    03:d8:49:bc:51:4b:ad:67:9e:1b:ae:c3:c9:5c:d9:
+                    8c:85:f2:c1:0b:19:b7:cf:3e:65:b1:6f:69:6c:d4:
+                    7a:79:cd:ca:03:80:65:73:6e:d1:4e:d1:8b:c5:c1:
+                    57:c9:d7:bf:e1:43:72:91:56:2c:61:89:c6:d4:e2:
+                    fc:32:19:27:2d:8e:0e:48:09:d4:e0:cb:72:ac:c6:
+                    0a:18:97:f8:50:17:14:2d:dd:55:65:38:ab:ad:04:
+                    e1:8c:e2:c6:a8:12:d9:e2:40:99:01:c2:19:71:7b:
+                    0e:df:8b:1d:7b:c7:d3:4b:dc:c1:07:9d:81:08:f3:
+                    42:8b:d8:d8:3a:33:aa:90:69:ab:dc:4a:93:ef:72:
+                    08:91
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:0F:80:61:1C:82:31:61:D5:2F:28:E7:8D:46:38:B4:2C:E1:C6:D9:E2
+
+            X509v3 Subject Key Identifier: 
+                9E:A8:3D:E9:C0:2A:DF:74:59:00:CC:3F:09:C7:DD:F6:3B:AB:11:EA
+            X509v3 Subject Alternative Name: 
+                DNS:supl.attmex.mx
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/ssca-sha2-g6.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/ssca-sha2-g6.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.1.1
+                  CPS: https://www.digicert.com/CPS
+                Policy: 2.23.140.1.2.2
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertSHA2SecureServerCA.crt
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            1.3.6.1.4.1.11129.2.4.2: 
+                ......u.......q...#...{G8W.
+.R....d6.......j.........F0D. @`..w.O.Qk.Lt...<....\..(..].k'. J...I.b...+.;..2WL.........+...v.u..u..Y|..C._..n.V.GV6.J.`....^......j.........F0D. ..{k..=b...oF;4P.......<U.&.y.... d"....,..`..l.X......Q...8(...m.
+    Signature Algorithm: sha256WithRSAEncryption
+         95:62:b7:1c:ea:51:4d:fe:21:67:33:41:dc:d3:be:c6:de:d7:
+         cf:53:37:55:6e:7f:8d:f3:81:52:c0:28:c1:93:a3:d4:4b:24:
+         79:26:5e:f4:68:48:a1:49:7f:48:4d:10:82:0b:5b:be:7e:61:
+         3e:bd:aa:86:d3:25:b5:0c:e4:40:5d:d3:4e:c4:92:79:36:df:
+         32:d3:4f:85:4a:7c:7c:4f:59:c3:6b:fe:c8:ff:c9:83:01:2e:
+         d0:df:7e:fc:03:65:99:1d:f2:a6:3e:bf:e7:d8:25:32:86:bc:
+         d9:3e:47:d7:25:87:b0:15:f4:39:b3:cb:df:e9:0a:44:f9:39:
+         20:41:f7:f8:f3:46:46:78:c6:d1:c4:46:9c:26:3e:01:ec:3a:
+         42:9e:b3:a2:cd:05:91:86:83:47:90:d5:d6:5e:83:5f:f2:47:
+         94:8d:29:da:dc:8b:18:ff:cc:9c:c3:69:c0:dc:44:6c:00:57:
+         bd:ad:12:60:d0:0d:0d:32:36:c1:5b:42:c8:23:91:5e:b7:ed:
+         19:44:1a:6b:3f:e1:d4:04:d1:3f:31:51:9c:84:f9:d2:a7:86:
+         47:74:4c:de:0e:49:0f:b6:97:c1:73:26:e3:42:48:0d:d3:cc:
+         d0:48:82:6c:f6:fa:1b:60:cd:02:46:a0:d3:9d:b4:e0:65:f2:
+         09:a5:8f:53
+SHA1 Fingerprint=83:DF:5F:02:FD:B2:7D:23:F4:C1:00:1D:97:31:58:C9:C1:6E:53:F2

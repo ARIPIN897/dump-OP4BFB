@@ -1,0 +1,60 @@
+<!--
+/* *****************************************************************************
+** File: manifest_oppo_dsds_eSE.xml
+** VENDOR_EDIT
+** Copyright (C), 2019, Oppo Mobile Comm Corp., Ltd
+**
+** Description:
+**       manifest_ss.xml+manifest_secure_element_ss.xml
+**
+** Version: 1.0
+** Date created: 14:30:00, 2019/4/25
+** Author: baozhu@oppo.com
+** TAG: NW.SIM.1704058
+** ******************************* Revision History: ***************************
+**         <author>                <date>            <desc>
+**         Baozhu Yu               2019/4/25          create
+** *****************************************************************************
+*/
+-->
+<manifest version="1.0" type="device">
+   <hal override="true" format="hidl">
+        <name>android.hardware.radio</name>
+        <transport>hwbinder</transport>
+        <version>1.2</version>
+        <interface>
+            <name>IRadio</name>
+            <instance>slot1</instance>
+            <instance>imsrild1</instance>
+            <instance>se1</instance>
+        </interface>
+        <interface>
+            <name>ISap</name>
+            <instance>slot1</instance>
+        </interface>
+    </hal>
+    <hal override="true" format="hidl">
+        <name>vendor.mediatek.hardware.radio</name>
+        <transport>hwbinder</transport>
+        <version>3.21</version>
+        <interface>
+            <name>IRadio</name>
+            <instance>slot1</instance>
+            <instance>imsrild1</instance>
+            <instance>se1</instance>
+        </interface>
+        <interface>
+            <name>ISap</name>
+            <instance>slot1</instance>
+        </interface>
+    </hal>
+    <hal override="true" format="hidl">
+        <name>android.hardware.secure_element</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>ISecureElement</name>
+            <instance>SIM1</instance>
+        </interface>
+    </hal>
+</manifest>
