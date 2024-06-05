@@ -1,0 +1,2 @@
+com.booking
+com.amazon.mShop.android.shopping

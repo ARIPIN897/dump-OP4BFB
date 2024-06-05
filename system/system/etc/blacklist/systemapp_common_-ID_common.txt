@@ -1,0 +1,6 @@
+com.coloros.browser
+com.heytap.browser
+com.oppo.market
+com.nearme.gamecenter
+com.coloros.cloud
+com.android.browser

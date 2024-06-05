@@ -1,0 +1,10 @@
+com.lazada.android
+com.ss.android.ugc.trill
+blibli.mobile.commerce
+com.infomedia.angkasapura2v2
+com.ertanto.kompas.official
+games.wawa
+com.jakarta.baca.lite
+com.msd.JTClient
+id.co.babe
+com.agoda.mobile.consumer

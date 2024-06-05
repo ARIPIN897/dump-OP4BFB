@@ -1,0 +1,3 @@
+data/app/com.lazada.android
+data/app/com.agoda.mobile.consumer
+data/app/FacebookMessenger

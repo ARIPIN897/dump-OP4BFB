@@ -1,0 +1,5 @@
+data/app/com.lazada.android
+data/app/com.ss.android.ugc.trill
+data/app/com.agoda.mobile.consumer
+data/app/com.tencent.qqlivei18n
+data/app/FacebookMessenger

@@ -1,0 +1,3 @@
+com.netflix.partner.activation
+com.netflix.mediaclient
+com.amazon.mShop.android.shopping

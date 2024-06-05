@@ -1,0 +1,4 @@
+<!-- This file is used by record input channel choice -->
+<permissions>
+    <feature name="gallery.mtk.pq.disable" />
+</permissions>

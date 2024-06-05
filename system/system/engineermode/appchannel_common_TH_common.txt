@@ -1,0 +1,2 @@
+agoda_pre_install.txt
+lazadaChannel.txt

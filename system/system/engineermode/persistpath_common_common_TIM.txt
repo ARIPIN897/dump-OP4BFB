@@ -1,0 +1,2 @@
+data/app/com.booking
+data/app/com.amazon.mShop.android.shopping

@@ -1,0 +1,10 @@
+data/app/com.citi.transfer
+data/app/com.telcel.imk
+data/app/com.dla.android
+data/app/com.celltick.lockscreen
+data/app/com.gameloft.android.GloftMBCF
+data/app/com.gameloft.android.GloftMOTR
+data/app/com.gameloft.android.GloftDBMF
+data/app/com.gameloft.android.GloftR19F
+data/app/FacebookTelcel
+data/app/DisneyMagicKingdomTelcel

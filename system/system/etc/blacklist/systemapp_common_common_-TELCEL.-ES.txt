@@ -1,0 +1,3 @@
+com.telcel.contenedor
+com.gameloft.android.gdc
+com.facebook.orca

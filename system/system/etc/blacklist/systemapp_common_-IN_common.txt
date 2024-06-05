@@ -1,0 +1,10 @@
+com.coloros.browser
+com.heytap.browser
+com.oppo.market
+com.nearme.gamecenter
+com.coloros.cloud
+com.coloros.operationtips
+com.android.browser
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.translate.engine

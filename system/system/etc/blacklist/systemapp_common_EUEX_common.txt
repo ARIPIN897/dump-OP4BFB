@@ -1,0 +1,5 @@
+com.coloros.musiclink
+com.coloros.pictorial
+com.coloros.safesdkproxy
+com.coloros.avastofferwall
+com.nearme.atlas

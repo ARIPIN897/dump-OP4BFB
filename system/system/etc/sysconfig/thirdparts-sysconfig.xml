@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- These are configurations that must exist on all GMS devices. -->
+<config>
+    <!-- These are the standard packages that are white-listed to always have internet
+         access while in power save mode, even if they aren't in the foreground. -->
+    <!--Xin.Zou@PSW.AD.OppoCommonSoft, 2020/04/22, Add whitelist for Mexico ATT Operator-->
+    <allow-in-power-save package="com.dti.attmx"/>
+    <allow-in-data-usage-save package="com.dti.attmx"/>
+    <app-link package="com.dti.attmx"/>
+</config>

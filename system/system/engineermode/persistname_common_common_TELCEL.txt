@@ -1,0 +1,9 @@
+com.citi.transfer
+com.telcel.imk
+com.dla.android
+com.celltick.lockscreen
+com.gameloft.android.GloftMBCF
+com.gameloft.android.GloftMOTR
+com.gameloft.android.GloftDBMF
+com.gameloft.android.GloftR19F
+com.gameloft.android.GloftDMKF

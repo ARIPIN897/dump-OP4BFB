@@ -1,0 +1,10 @@
+data/app/com.lazada.android
+data/app/com.ss.android.ugc.trill
+data/app/blibli.mobile.commerce
+data/app/com.infomedia.angkasapura2v2
+data/app/com.ertanto.kompas.official
+data/app/games.wawa
+data/app/com.jakarta.baca.lite
+data/app/com.msd.JTClient
+data/app/id.co.babe
+data/app/com.agoda.mobile.consumer

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneColors>
+        <!--PhoneColor.name：手机颜色的唯一标识，由项目、手软提供-->
+        <!--ColorDescription：手机颜色描述，描述手机颜色-->
+        <!--ColorDescriptionCN：手机颜色描述（中文），描述手机颜色-->
+        <!--DefaultTheme：该颜色手机对应的主题，可选为default（对应/system/media/theme/default/下默认主题）、/system/media/themeInner/下内置主题的文件名，不包含文件后缀（如.theme）-->
+        <!--ThemeDescriptionCN：主题描述（中文），描述主题名称-->
+        <!--手机颜色唯一标识、手机颜色描述由项目或手软提供，对应主题由桌面主题组根据UI要求配置-->
+        <!--该文件由OS产品中心桌面主题组维护-->
+
+    <PhoneColor name="FF242638">
+        <ColorDescription>Black</ColorDescription>
+        <ColorDescriptionCN>黑色</ColorDescriptionCN>
+        <DefaultTheme>1-AfflatusFromNebula</DefaultTheme>
+        <ThemeDescriptionCN>流光紫</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF4D94FF">
+        <ColorDescription>Blue</ColorDescription>
+        <ColorDescriptionCN>蓝色</ColorDescriptionCN>
+        <DefaultTheme>2-TinselBlue</DefaultTheme>
+        <ThemeDescriptionCN>电光蓝</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF4DDCF1">
+        <ColorDescription>Deep Blue</ColorDescription>
+        <ColorDescriptionCN>流光蓝</ColorDescriptionCN>
+        <DefaultTheme>2-TinselBlue</DefaultTheme>
+        <ThemeDescriptionCN>电光蓝</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFC7D3DA">
+        <ColorDescription>Flowing Silver</ColorDescription>
+        <ColorDescriptionCN>流光银</ColorDescriptionCN>
+        <DefaultTheme>2-TinselBlue</DefaultTheme>
+        <ThemeDescriptionCN>电光蓝</ThemeDescriptionCN>
+    </PhoneColor>
+</PhoneColors>

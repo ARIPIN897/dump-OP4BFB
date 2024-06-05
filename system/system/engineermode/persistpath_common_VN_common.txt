@@ -1,0 +1,8 @@
+data/app/com.lazada.android
+data/app/com.ss.android.ugc.trill
+data/app/com.epi
+data/app/com.xb.topnews
+data/app/com.zing.zalo
+data/app/com.zing.mp3
+data/app/com.agoda.mobile.consumer
+data/app/FacebookMessenger
