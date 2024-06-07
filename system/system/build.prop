@@ -25,6 +25,7 @@ ro.product.manufacturer=OPPO
 ro.product.locale=en-US
 ro.wifi.channels=
 # ro.build.product is obsolete; use ro.product.device
+ro.product.device=OP4BFB
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=full_oppo6765_19451-user 9 PPR1.180610.011 eng.root.20220118.230000 release-keys
 ro.build.characteristics=default
